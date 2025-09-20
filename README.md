@@ -1,5 +1,6 @@
-# PPUM
-PPUM
+Our algorithm can be used for privacy protection of periodic itemsets and is based on a data perturbation strategy.
+
+Our algorithm is located in the PPPUM/src/main/PPPUM and PPPUM/src/test folders.
 
 The PHM code here is derived from reference [1], and the experimental comparison algorithm we named as folder LiuXuan, with the code sourced from [2].
 
